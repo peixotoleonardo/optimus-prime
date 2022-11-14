@@ -1,0 +1,27 @@
+{
+  "name": "generator-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "i": "^0.3.7",
+    "kebab-case": "^1.0.2",
+    "lower-case-first": "^2.0.2",
+    "npm": "^9.1.1",
+    "pluralize": "^8.0.0",
+    "ts-morph": "^16.0.0",
+    "typescript": "^4.8.4",
+    "yeoman-generator": "^5.7.0",
+    "yosay": "^2.0.2"
+  }
+}
